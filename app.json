@@ -7,8 +7,8 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/PredatorHackerzZ/TG-FileStore",
-    "website": "https://telegram.dog/PredatorHackerzZ",
+    "repository": "https://github.com/soulpc/TG-FileStore",
+    "website": "https://github.com/soulpc/TG-FileStore",
     "success_url": "https://t.me/TeleRoidGroup",
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
     "env": {
