@@ -10,7 +10,7 @@ class Config(object):
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-100"))
 	SHORTLINK_URL = os.environ.get('SHORTLINK_URL')
 	SHORTLINK_API = os.environ.get('SHORTLINK_API')
-	BOT_OWNER = int(os.environ.get("BOT_OWNER", "1445283714"))
+	BOT_OWNER = int(os.environ.get("BOT_OWNER", "1297128957"))
 	DATABASE_URL = os.environ.get("DATABASE_URL")
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
 	LOG_CHANNEL = os.environ.get("LOG_CHANNEL", None)
@@ -33,20 +33,20 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Developer:** [𝐍𝐚𝐳𝐫𝐢𝐲𝐚 𝐀𝐝𝐦𝐢𝐧](https://t.me/ARAKAL_THERAVAD_MOVIES_02_bot) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Group Link](https://t.me/ARAKAL_THERAVAD_MOVIES)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Oᴛᴛ Uᴘᴅᴀᴛᴇs](https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@OTT_ARAKAL_THERAVAD_MOVIESS](https://t.me/ARAKAL_THERAVAD_MOVIES)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/DonateXrobot) or ```MrAbhi2k3@apl```
+[Donate Me](https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS) or ```Oᴛᴛ Uᴘᴅᴀᴛᴇs```
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
